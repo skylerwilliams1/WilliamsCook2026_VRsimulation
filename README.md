@@ -1,6 +1,6 @@
 # WilliamsCook2026_VRsimulation
 
-VRSimulation.R and VRSimulation_post_processing.R include the simulation code used to produce the results in the Williams and Cook viral rebound manuscript. Find the full explanation of our simulation in the publication. Below, we briefly describe how to run the simulation and post processing, although both scripts are commented with further detail and explanations.  Notably, our code to calculate the RMST and execute the test of the difference in RMST with interval-censored data is included in VRSimulation.R. We also offer an explanation for each variable in the final dataset that the simulation and post-processing returns. 
+VRSimulation.R and VRSimulation_post_processing.R include the simulation code used to produce the results in the Williams and Cook viral rebound manuscript. Find the full explanation of our simulation in the publication. Below, we briefly describe how to run the simulation and post processing, although both scripts are commented with further detail and explanations.  Notably, our code to calculate the RMST and execute the test of the difference in RMST with interval-censored data is included in VRSimulation.R. We also offer a description for each variable in the final dataset that the simulation and post-processing returns. 
 
 ## VRSimulation.R
 
