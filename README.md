@@ -12,7 +12,7 @@ VRSimulation.R and VRSimulation_post_processing.R include the simulation and pos
 - beta2b: the delay in viral rebound parameter for trial arm two. We used 6.94, 9.14, and 11.34.
 - alpha: the desired significance level for hypothesis tests. We used 0.05.
 - delta: one half of the clinical visit window for viral load monitoring (in weeks). We used 0.5.
-- n_visits: the number of uniformly distributed viral load monitoring visits over 48 weeks. Our function only takes 48, 24, and 12, but can be easily altered to take other values.
+- n_visits: the number of viral load monitoring visits at regular intervals over 48 weeks. Our function only takes 48, 24, and 12, but can be easily altered to take other values.
 
 ### Instructions:
 
